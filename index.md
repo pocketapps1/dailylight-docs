@@ -1,3 +1,23 @@
+<style>
+.nav {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 12px;
+  margin: 16px 0 24px;
+}
+.nav a {
+  display: inline-block;
+  padding: 8px 14px;
+  border-radius: 10px;
+  background: #f3f4f6;
+  border: 1px solid #e5e7eb;
+  text-decoration: none;
+  color: #111827;
+  font-weight: 600;
+}
+.nav a:hover { background: #e5e7eb; }
+</style>
 
 MDViewer is a lightweight Markdown tool for iOS and iPadOS:
 
@@ -16,11 +36,13 @@ MDViewer is a lightweight Markdown tool for iOS and iPadOS:
 
 ## Documentation
 
-- [Privacy Policy](./privacy-policy.md)
-- [Terms of Use](./terms-of-use.md)
-- [Subscription Terms](./subscription-terms.md)
-- [Support](./support.md)
-- [FAQ](./faq.md)
+<div class="nav">
+  <a href="./privacy-policy.md">Privacy Policy</a>
+  <a href="./terms-of-use.md">Terms of Use</a>
+  <a href="./subscription-terms.md">Subscription Terms</a>
+  <a href="./support.md">Support</a>
+  <a href="./faq.md">FAQ</a>
+</div>
 
 ## Supported Platforms
 

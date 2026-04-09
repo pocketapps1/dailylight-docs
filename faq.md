@@ -1,3 +1,4 @@
+## MDViewer FAQ
 
 ## Does the App collect any data?
 No. MDViewer does not collect, store, or share personal data. See the [Privacy Policy](./privacy-policy.md).
@@ -24,4 +25,3 @@ Go to **Settings → Privacy → Photos → MDViewer** and allow access. Without
 ## TestFlight vs Sandbox
 - **TestFlight** uses your real Apple ID to install builds (no charge).  
 - **Purchases** should be tested with a **Sandbox tester** account (Set under Settings → App Store → Sandbox Account). This avoids real charges.
-

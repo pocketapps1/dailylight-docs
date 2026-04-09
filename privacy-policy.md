@@ -1,3 +1,4 @@
+## MDViewer Privacy Policy
 
 Last updated: 2026-04-09
 

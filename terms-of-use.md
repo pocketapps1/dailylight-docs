@@ -67,4 +67,4 @@ If any provision of these Terms is held to be invalid or unenforceable, the rema
 
 ## Contact
 
-If you have any questions about these Terms of Use, please contact us at: support@trashtab.app
+If you have any questions about these Terms of Use, please contact us at: pocketapps1@proton.me

@@ -59,4 +59,4 @@ We may update this privacy policy from time to time. The latest version will alw
 
 ## Contact
 
-If you have any questions about this Privacy Policy, please contact us at: support@trashtab.app
+If you have any questions about this Privacy Policy, please contact us at: pocketapps1@proton.me

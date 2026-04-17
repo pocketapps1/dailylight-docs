@@ -52,11 +52,11 @@ Make sure you've granted file access permissions when prompted. The app needs pe
 ## Feature Requests
 
 ### Will you add [feature]?
-We're always improving TrashTab! Send your feature requests to support@trashtab.app
+We're always improving TrashTab! Send your feature requests to pocketapps1@proton.me
 
 ### Can I sync between devices?
 Currently, TrashTab is designed as a single-device app. Use Export/Import to move data between devices manually.
 
 ---
 
-Still have questions? Contact us at support@trashtab.app
+Still have questions? Contact us at pocketapps1@proton.me

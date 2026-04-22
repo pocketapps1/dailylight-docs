@@ -1,6 +1,6 @@
 # Support
 
-We're here to help you with any issues or questions about TrashTab.
+We're here to help you with any issues or questions about Daily Light.
 
 ## Contact Support
 
@@ -12,7 +12,7 @@ We're here to help you with any issues or questions about TrashTab.
 Please check the following before reaching out:
 
 1. **Check the [FAQ](faq.md)** - Your question might already be answered
-2. **Ensure you're running the latest version** of TrashTab
+2. **Ensure you're running the latest version** of Daily Light
 3. **Try restarting the app** - Many issues can be resolved with a simple restart
 4. **Check your iOS version** - Make sure you're running a supported version of iOS
 
@@ -22,24 +22,24 @@ To help us assist you faster, please include:
 
 - Your device model (iPhone XX, iPad XX)
 - iOS version
-- TrashTab version number
+- Daily Light version number
 - A clear description of the issue
 - Steps to reproduce the problem (if applicable)
 - Screenshots (if helpful for understanding the issue)
 
 ## Common Issues & Solutions
 
-### Data Loss Issues
-- **Issue**: "I lost my debt records"
-- **Solution**: Always maintain regular backups using the Export feature. Check if you have an iCloud backup available.
+### Reading Progress Issues
+- **Issue**: "My reading position was reset"
+- **Solution**: Your progress is saved automatically. Try force-quitting and reopening the app.
 
 ### App Crashes
 - **Issue**: "The app keeps crashing"
 - **Solution**: Try force-quitting the app, restarting your device, or reinstalling the app.
 
-### Import/Export Problems
-- **Issue**: "I can't import/export files"
-- **Solution**: Ensure you've granted file access permissions. Check that the file format is correct (.json).
+### Display Issues
+- **Issue**: "The text looks wrong" or "The app doesn't fit my screen"
+- **Solution**: Ensure you're using the latest version of the app. Some older devices may have display limitations.
 
 ## Feature Requests
 
@@ -61,4 +61,4 @@ For privacy-related questions, please see our [Privacy Policy](privacy-policy.md
 
 ---
 
-**Note**: We are a small team, but we strive to respond to all support requests promptly. Thank you for using TrashTab!
+**Note**: We are a small team, but we strive to respond to all support requests promptly. Thank you for using Daily Light!

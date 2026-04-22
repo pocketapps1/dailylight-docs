@@ -19,13 +19,13 @@
 .nav a:hover { background: #e5e7eb; }
 </style>
 
-TrashTab is a simple debt tracking app for iOS that helps you keep track of money owed between friends:
+Daily Light on the Daily Path is a devotional app for iOS that brings you daily spiritual readings:
 
-- 📝 **Easy Bill Recording**: Quickly add debtors and amounts with a clean interface
-- 🎯 **Smart Status Tracking**: Monitor repayment status (Unpaid/Paid/Bad Debt) in real-time
-- 📊 **Timeline View**: Visualize all bills with clear repayment schedule distribution
-- 💾 **Local Storage**: All data stays on your device for maximum privacy
-- 🔄 **Import/Export**: Backup and restore your data with JSON file support
+- 📖 **365 Devotionals**: One reading for each day of the year
+- 🙏 **Scripture-Based**: Each devotional includes relevant Bible verses
+- 📱 **Offline Access**: Read anywhere without internet connection
+- 🔖 **Easy Navigation**: Jump to any day's reading with the table of contents
+- 💾 **Local Storage**: Your reading progress saved locally
 
 <div class="nav">
   <a href="privacy-policy">Privacy Policy</a>
@@ -36,21 +36,24 @@ TrashTab is a simple debt tracking app for iOS that helps you keep track of mone
 
 ## Quick Start
 
-1. **Add a Bill**: Tap the "+" button to create a new debt record
-2. **Track Status**: Use the status tabs to filter bills by their current state
-3. **View Timeline**: Check the Timeline tab to see repayment schedules
-4. **Backup Data**: Use Export feature to create backups of your records
+1. **Browse Readings**: Swipe left or right to navigate between days
+2. **Open Contents**: Tap the center of the screen to view all readings
+3. **Jump to Date**: Select any date from the table of contents
+4. **Resume Reading**: Your current position is saved automatically
 
 ## Features
 
-### Simple Debt Management
-Track who owes you money, how much, and when it's due. Perfect for casual loans between friends.
+### Daily Devotionals
+Each day includes a carefully selected devotional message with related Scripture passages for reflection and meditation.
 
-### Offline Functionality
-No internet connection required. All your debt records are stored locally on your device.
+### Scripture Passages
+Read the actual Bible verses referenced in each devotional. All content is available offline.
 
-### Data Portability
-Export your data as JSON files for backup or import into other devices.
+### Reading Progress
+Your current position is automatically saved. Resume where you left off anytime.
+
+### Table of Contents
+Access all 365 readings through an easy-to-navigate menu. Jump to any date with a single tap.
 
 ### Privacy First
-We don't collect your data. Your financial information remains private and secure.
+All your reading data stays on your device. No account required, no data collected.

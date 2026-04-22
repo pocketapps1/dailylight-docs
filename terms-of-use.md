@@ -1,6 +1,6 @@
-Last updated: 2026-04-17
+Last updated: 2026-04-22
 
-These Terms of Use ("Terms") govern your usage of TrashTab ("the App").
+These Terms of Use ("Terms") govern your usage of Daily Light ("the App").
 
 ## License
 
@@ -8,33 +8,19 @@ We grant you a personal, non-exclusive, non-transferable, revocable license to u
 
 ## User Content
 
-You retain all rights and responsibilities for the debt records and information you create within the App. You are solely responsible for:
+You retain all rights to the devotional content provided within the App. You are solely responsible for:
 
-- Ensuring the accuracy of the information you enter
-- Maintaining appropriate backups of your data
-- Ensuring your use of the App complies with applicable laws
+- Ensuring your use of the App complies with applicable laws.
+- Using the content in accordance with your personal religious practice.
 
 ## Acceptable Use
 
 You agree not to use the App for:
 
-- Any unlawful or fraudulent purposes
-- Harassment or defamation of others
-- Creating records that violate others' privacy rights
-- Attempting to reverse engineer, modify, or create derivative works of the App
-- Interfering with the normal operation of the App
-
-## Data Responsibility
-
-### Your Responsibility
-- You are responsible for maintaining backups of your data
-- The App provides export functionality for this purpose
-- We are not responsible for data loss due to device failure, loss, or user error
-
-### App Functionality
-- The App stores data locally on your device
-- Regular backups are recommended to prevent data loss
-- Export features are provided to facilitate data portability
+- Any unlawful or fraudulent purposes.
+- Harassment or defamation of others.
+- Attempting to reverse engineer, modify, or create derivative works of the App.
+- Interfering with the normal operation of the App.
 
 ## No Warranty
 
@@ -44,10 +30,13 @@ The App is provided "as is" without warranties of any kind, express or implied, 
 
 To the maximum extent permitted by law, we shall not be liable for:
 
-- Any indirect, incidental, special, consequential, or punitive damages
-- Loss of data, profits, or business opportunities
-- Any damages arising from your use or inability to use the App
-- Data loss or corruption
+- Any indirect, incidental, special, consequential, or punitive damages.
+- Loss of data, profits, or business opportunities.
+- Any damages arising from your use or inability to use the App.
+
+## Religious Content Disclaimer
+
+The devotional content in this App is provided for personal devotional use only. While we strive to provide accurate and meaningful content, we make no representations about the spiritual suitability of any content for individual users. Users are encouraged to consult with their own religious advisors.
 
 ## Changes to Terms
 
